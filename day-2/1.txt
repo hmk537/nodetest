@@ -1,0 +1,5 @@
+node.js中每个js都是一个独立的模块，独立模块里的变量只在当前模块生效
+exports module.exports==>抛出，暴漏
+exports 和 module.exports的区别：
+1.两者默认都是空对象
+2.exports 是指向module.exports的引用，后者包含了前者
