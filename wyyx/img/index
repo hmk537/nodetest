@@ -1,0 +1,163 @@
+
+
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>为你严选-网易严选、muji风、文案、直男穿搭、专题文案、文艺晒图、美好生活、生活指南、丁磊私物推荐、严选特色、北欧风、小清新、极简生活、家居指南、生活好物、日式榻榻米、日式家居</title>
+<meta name="keywords" content="网易严选,严选,电子商务,网购,居家,厨房,饮食,甄选家,有态度,一流制造商,匠心打造,源头把控,绿色,安全,舒适,健康,品质,严格甄选,出口品质" />
+<meta name="description" content="网易严选秉承网易一贯的严谨态度，深入世界各地，严格把关所有商品的产地、工艺、原材料，甄选居家、厨房、饮食等各类商品，力求给你最优质的商品。" />
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<link rel="shortcut icon" href="/favicon.ico?r=gold" type="image/x-icon" />
+<meta property="qc:admins" content="365774662561636375" />
+<link rel="stylesheet" href="//yanxuan-static.nosdn.127.net/hxm/yanxuan-web/p/20150730/style/css/style-e6436bb3c8.css" type="text/css" />
+<script type="text/javascript">
+(function(){
+var userAgent = window.navigator.userAgent;
+if(/windows|win32/i.test(userAgent)) {
+if(/Windows NT 5/.test(userAgent)) {
+document.writeln('<style type="text/css">' + 'body,button,input,select,textarea,code{font-family: tahoma,sans-serif;}' + '<' + '/style>');
+}
+} else if(/macintosh/i.test(userAgent)) {
+document.writeln('<style type="text/css">' + 'body,button,input,select,textarea,code{font-family: "Heiti SC","Lucida Grande","Hiragino Sans GB","Hiragino Sans GB W3",verdana;}' + '<' + '/style>');
+}
+})();
+</script>
+<link rel="stylesheet" href="//yanxuan-static.nosdn.127.net/hxm/yanxuan-web/p/20150730/js/dist/topic/index/index-a2f8325fee.page.css">
+<link rel="stylesheet" type="text/css" href="//yanxuan-static.nosdn.127.net/hxm/yanxuan-component/p/20170601/js/dist/yxComponent.all.min.css?v=20191110181573119869564">
+<!--[if lt IE 9]>
+<script src="//yanxuan-static.nosdn.127.net/hxm/yanxuan-web/p/20150730/js/ie-692922fc2c.js"></script>
+<![endif]-->
+<!--[if lt IE 8]>
+<meta http-equiv="refresh" content="1;url=/error/lowVersionBrowser" />
+<script>top.window.location.href='/error/lowVersionBrowser';</script>
+<![endif]-->
+<script>
+var YXStat = {};
+YXStat.q = YXStat.q || [];
+//设置pageview的event_name
+window.CURRENTPAGE = 'topicIndex';
+(function() {
+var done = false;
+var stat = document.createElement('script');
+stat.type = 'text/javascript';
+stat.async = true;
+stat.src = '//yanxuan-static.nosdn.127.net/hxm/yanxuan-analytics/common/js/stat.min.js?v=20191110181573119869564';
+stat.onload = stat.onreadystatechange = function(){
+if(!done && (!this.readyState ||this.readyState === "loaded" || this.readyState === "complete")){
+done = true;
+YXStat.init({
+client_type: "web",
+url: "//dc.you.163.com/main/a.js",
+isAgent:true
+});
+}
+};
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(stat, s);
+})();
+</script>
+<script>
+window.NRUM = window.NRUM || {};
+window.NRUM.config = {key:'fd5005d788d94e6ed70ce11df471b8b7',clientStart: +new Date()};
+(function() {var n = document.getElementsByTagName('script')[0],s = document.createElement('script');s.type = 'text/javascript';s.async = true;s.src = '//apmsdk.nosdn.127.net/napm-web-min-1.1.6.js';n.parentNode.insertBefore(s, n);})();
+</script>
+</head>
+<body>
+<div id="j-YXComponentTop"
+style="height:176px">
+</div>
+<div id="container">
+</div>
+<div id="j-YXComponentFoot"
+style="height:549px">
+</div>
+<script>
+window['yxCurrentPage'] = 'topicIndex';
+window['yxIsShowCategory'] = 'yes';
+window['yxIsShowFt'] = 'yes';
+window['yxIsShowFt2'] = 'yes';
+</script>
+<script src="//yanxuan-static.nosdn.127.net/hxm/yanxuan-web/p/20150730/js/vender-0ee4de3597.js"></script>
+<script src="//yanxuan-static.nosdn.127.net/hxm/yanxuan-web/p/20150730/js/common-86575d8ec3.js"></script>
+<script type="text/javascript">
+window["$global"] = {
+giftSwitch : "false",
+nickname : "",
+userNameFront : "",
+username : "",
+userid : "0",
+domain : "http://you.163.com", //举例：http://you.163.com
+environment : "online",
+leftCategorySaleRankConfig:[
+{
+"highlight": true,
+"text": "全站<br/>热销榜",
+"icon": "//yanxuan.nosdn.127.net/d83d6cc58589e7b9540e57809920d961.png",
+"url": "//you.163.com/item/saleRank"
+},
+{
+"highlight": false,
+"text": "居家<br/>生活榜",
+"icon": "//yanxuan.nosdn.127.net/288d84fe691240d9f87271b293f39b67.png",
+"url": "//you.163.com/item/saleRank?categoryId=1005000"
+},
+{
+"highlight": false,
+"text": "服饰<br/>鞋包榜",
+"icon": "//yanxuan.nosdn.127.net/2318b65e996e14bc0707880040dfabb0.png",
+"url": "//you.163.com/item/saleRank?categoryId=1010000"
+},
+{
+"highlight": false,
+"text": "美食<br/>酒水榜",
+"icon": "//yanxuan.nosdn.127.net/8ca4557361e2fff394a5a94d0b73f3c6.png",
+"url": "//you.163.com/item/saleRank?categoryId=1005002"
+},
+{
+"highlight": false,
+"text": "数码<br/>家电榜",
+"icon": "//yanxuan.nosdn.127.net/270bc2465ac7eed90ada40c92166678b.png",
+"url": "//you.163.com/item/saleRank?categoryId=1043000"
+},
+{
+"highlight": false,
+"text": "个护<br/>清洁榜",
+"icon": "//yanxuan.nosdn.127.net/4723267aef758a7d805bb7c1447fdc44.png",
+"url": "//you.163.com/item/saleRank?categoryId=1013001"
+},
+{
+"highlight": false,
+"text": "运动<br/>旅行榜",
+"icon": "//yanxuan.nosdn.127.net/eec3af53eb17a4b117043e18ae7c7418.png",
+"url": "//you.163.com/item/saleRank?categoryId=109243029"
+},
+{
+"highlight": false,
+"text": "母婴<br/>亲子榜",
+"icon": "//yanxuan.nosdn.127.net/a94b2f7f7ada813ae9c93f84d3d60d6f.png",
+"url": "//you.163.com/item/saleRank?categoryId=1011000"
+},
+{
+"highlight": false,
+"text": "全球<br/>特色榜",
+"icon": "//yanxuan.nosdn.127.net/9cb33f543dddd54c7cc157d29650dbf4.png",
+"url": "//you.163.com/item/saleRank?categoryId=1019000"
+}
+]
+};
+window["commonLibTimestamp"] = "20191110181573119869564";
+window["ABTEST_DIS"] = "";
+</script>
+<script type="text/javascript" src="//yanxuan-static.nosdn.127.net/hxm/yanxuan-component/p/20170601/js/dist/yxComponent.all.min.js?v=20191110181573119869564"></script>
+<div id="fixedTool"></div> <script>
+var JSON_DATA={"pickRecommend":[{"topicTagId":0,"topicTemplateId":0,"title":"又软又糯不扎人的小山羊绒衫，是怎么做出来的？","type":-1,"content":"2019新款上市","picUrl":"https://yanxuan.nosdn.127.net/eb115937e86b99a24595729c4cb74998.png","subTitle":"2019新款上市","linkUrl":"http://you.163.com/topic/v1/pub/ZdNCS1WvJxo5.html","nickname":"品控组：Q师傅","schemeUrl":"http://you.163.com/topic/v1/pub/ZdNCS1WvJxo5.html","avatar":"https://yanxuan.nosdn.127.net/ae54472526655afd564740737f426c5c.jpg","itemCount":0,"topicId":101374,"createTime":1569551299000,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"儿童爬行地垫怎么选？严选教你正确的挑选方式","type":-1,"content":"宝宝舒适，妈妈安心","picUrl":"https://yanxuan.nosdn.127.net/88b22dab9ad9fb601a147d64e4d94a0d.jpg","subTitle":"宝宝舒适，妈妈安心","linkUrl":"http://you.163.com/topic/v1/pub/dCvsSTodZIje.html","nickname":"品控组：Q师傅","schemeUrl":"http://you.163.com/topic/v1/pub/dCvsSTodZIje.html","avatar":"https://yanxuan.nosdn.127.net/9349d3ad6501ef8def3a06265a3792e4.jpg","itemCount":0,"topicId":101376,"createTime":1569552357000,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"扫把拖把可以扔了，“懒人”做家务就靠它！","type":-1,"content":"吸尘拖地一体，懒人必备","picUrl":"https://yanxuan.nosdn.127.net/4b1886891da8bd49155833550ad2abd4.jpg","subTitle":"吸尘拖地一体，懒人必备","linkUrl":"http://you.163.com/topic/v1/pub/Dpl68KSM9N02.html","nickname":"选妹","schemeUrl":"http://you.163.com/topic/v1/pub/Dpl68KSM9N02.html","avatar":"https://yanxuan.nosdn.127.net/03188a1234cace4a9446b8e16adf985d.jpg","itemCount":0,"topicId":100971,"createTime":1568726857000,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"轻便遮阳帽，无忧过夏天","type":-1,"content":"严选标准的防晒效果","picUrl":"https://yanxuan.nosdn.127.net/29831bd60b808b316a1760885b252574.png","subTitle":"严选标准的防晒效果","linkUrl":"http://you.163.com/topic/v1/pub/UPlj1iYGQj.html","nickname":"品控组：Q师傅","schemeUrl":"http://you.163.com/topic/v1/pub/UPlj1iYGQj.html","avatar":"https://yanxuan.nosdn.127.net/1281cc7f49daaedc09d0c179eaef5d62.jpg","itemCount":0,"topicId":14034,"createTime":1565172320000,"commentSwitch":false}],"special":[{"topicTagId":0,"specialCount":"0","topicTemplateId":0,"title":"棉质生活","type":-1,"picUrl":"https://yanxuan.nosdn.127.net/df93bb5e49740960c4639657d6bb834d.jpg","specialDesc":"无荧光的全棉用品更安心","subTitle":"","linkUrl":"http://you.163.com/topic/v1/pub/pyArWGOHTH.html","specialName":"棉质生活","schemeUrl":"http://you.163.com/topic/v1/pub/pyArWGOHTH.html","itemCount":0,"topicId":0,"createTime":0,"commentSwitch":false},{"topicTagId":0,"specialCount":"0","topicTemplateId":0,"title":"珐琅系列","type":-1,"picUrl":"https://yanxuan.nosdn.127.net/f11bfe1d0a6d47aef2b5035d10870fb6.jpg","specialDesc":"每个大厨都有的万能锅","subTitle":"","linkUrl":"http://you.163.com/topic/v1/pub/eEhRbMwde6.html","specialName":"珐琅系列","schemeUrl":"http://you.163.com/topic/v1/pub/eEhRbMwde6.html","itemCount":0,"topicId":0,"createTime":0,"commentSwitch":false}],"design":[],"banner":[{"topicTagId":0,"topicTemplateId":0,"title":"十一月必买好物","type":-1,"picUrl":"https://yanxuan.nosdn.127.net/8accc4fddbc277b8d4fd8badb06bf15a.jpg","subTitle":"11.11、黑五等购物街必买清单","linkUrl":"http://you.163.com/topic/v1/pub/KiT3sQHVnClp.html","schemeUrl":"http://you.163.com/topic/v1/pub/KiT3sQHVnClp.html","itemCount":0,"topicId":0,"createTime":0,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"11.11新品发布会","type":-1,"picUrl":"https://yanxuan.nosdn.127.net/29c88584886675270be0b70d5df8f659.jpg","subTitle":"现在下定金，就有超值折扣","linkUrl":"http://you.163.com/topic/v1/pub/KgNwORVyIxlB.html","schemeUrl":"http://you.163.com/topic/v1/pub/KgNwORVyIxlB.html","itemCount":0,"topicId":0,"createTime":0,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"6大用心生活新态度","type":-1,"picUrl":"https://yanxuan.nosdn.127.net/acb56e02aeebf593957aff847610c5ca.jpg","subTitle":"与你一起，从现在开始改变","linkUrl":"http://you.163.com/topic/v1/pub/7W9QRamNADbn.html","schemeUrl":"http://you.163.com/topic/v1/pub/7W9QRamNADbn.html","itemCount":0,"topicId":0,"createTime":0,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"严选按摩神器全搜罗","type":-1,"picUrl":"https://yanxuan.nosdn.127.net/880de57e4d9d0a401c4a9a48834013bf.jpg","subTitle":"揭开每一款的秘技绝学","linkUrl":"http://you.163.com/topic/v1/pub/AI9sRsS65obL.html","schemeUrl":"http://you.163.com/topic/v1/pub/AI9sRsS65obL.html","itemCount":0,"topicId":0,"createTime":0,"commentSwitch":false}],"dingRecommend":[{"topicTagId":0,"topicTemplateId":0,"title":"吃过猫山王，其他榴莲皆路人","type":-1,"picUrl":"https://yanxuan-item.nosdn.127.net/e2efce733f3dc4ccc2e4079335afcdec.png","subTitle":"","linkUrl":"http://you.163.com/topic/v1/pub/04N80oZXoH.html","schemeUrl":"http://you.163.com/topic/v1/pub/04N80oZXoH.html","itemCount":0,"topicId":7852,"createTime":0,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"海苔加薯片，好上加好的全新体验","type":-1,"picUrl":"https://yanxuan-item.nosdn.127.net/53928b21a65c1b4393274f4b3d73b327.png","subTitle":"","linkUrl":"http://you.163.com/topic/v1/pub/nMg8L5UlRF.html","schemeUrl":"http://you.163.com/topic/v1/pub/nMg8L5UlRF.html","itemCount":0,"topicId":7822,"createTime":0,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"把ins上爆红的“超级食物”放进麦片里","type":-1,"picUrl":"https://yanxuan-item.nosdn.127.net/4ca9c69f55a690958527a944821ca5da.png","subTitle":"","linkUrl":"http://you.163.com/topic/v1/pub/y0Oz6qtsj0.html","schemeUrl":"http://you.163.com/topic/v1/pub/y0Oz6qtsj0.html","itemCount":0,"topicId":3597,"createTime":0,"commentSwitch":false}],"global":[],"recommend":[{"topicTagId":0,"topicTemplateId":0,"title":"老顾客无限回购的好物9.9元起，选妹打赌用过一次你就离不开！","type":-1,"picUrl":"https://yanxuan.nosdn.127.net/e74ab7b97c66da8a8fed13916e10960b.jpg","subTitle":"无限回购榜","linkUrl":"http://you.163.com/topic/v1/pub/GpCIMFZBO2.html","nickname":"好物大赏","schemeUrl":"http://you.163.com/topic/v1/pub/GpCIMFZBO2.html","avatar":"https://yanxuan.nosdn.127.net/64d943e49a5f4a3d3af9ff8ea14a4c0f.png","itemCount":0,"topicId":9439,"createTime":0,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"常年断货的严选爆品终于上架了，回头客都在抢！","type":-1,"picUrl":"https://yanxuan.nosdn.127.net/c48c8d79ff130bf482998c0989affa90.jpg","subTitle":"年度断货补单王","linkUrl":"http://you.163.com/topic/v1/pub/pluaaDOZKM.html","nickname":"好物大赏","schemeUrl":"http://you.163.com/topic/v1/pub/pluaaDOZKM.html","avatar":"https://yanxuan.nosdn.127.net/901a71af684e3f497480525c1962a3a5.png","itemCount":0,"topicId":9437,"createTime":0,"commentSwitch":false}],"time":[{"picUrl":"https://yanxuan.nosdn.127.net/e6abbab0807796874af0b3b3ab5864d0.mp4?vframe=&offset=2","videoWebmUrl":"https://yanxuan.nosdn.127.net/3809b615145d74767c65fab856a011d4.webm","videoMp4Url":"https://yanxuan.nosdn.127.net/e6abbab0807796874af0b3b3ab5864d0.mp4"},{"picUrl":"https://yanxuan.nosdn.127.net/f63018da6446083a7ac1ccfc628590ef.mp4?vframe=&offset=2","videoWebmUrl":"https://yanxuan.nosdn.127.net/9caee16d45f79c8ef4c0a570e1c70cb2.webm","videoMp4Url":"https://yanxuan.nosdn.127.net/f63018da6446083a7ac1ccfc628590ef.mp4"},{"picUrl":"https://yanxuan.nosdn.127.net/8cba71618a973528b54d941eeabf6a0a.mp4?vframe=&offset=2","videoWebmUrl":"https://yanxuan.nosdn.127.net/463d97a426133b60148bf66a165bf368.webm","videoMp4Url":"https://yanxuan.nosdn.127.net/8cba71618a973528b54d941eeabf6a0a.mp4"},{"picUrl":"https://yanxuan.nosdn.127.net/6acc419dff7ed1e7bcea0ac25c28a39c.mp4?vframe=&offset=2","videoWebmUrl":"https://yanxuan.nosdn.127.net/351172bb5eb48f694c75619e54c79770.webm","videoMp4Url":"https://yanxuan.nosdn.127.net/6acc419dff7ed1e7bcea0ac25c28a39c.mp4"},{"picUrl":"https://yanxuan.nosdn.127.net/cfbb4faa90b958f5cfa3b06ad1d3e4eb.mp4?vframe=&offset=2","videoWebmUrl":"https://yanxuan.nosdn.127.net/f1534b177842b06f12c2eb807701e397.webm","videoMp4Url":"https://yanxuan.nosdn.127.net/cfbb4faa90b958f5cfa3b06ad1d3e4eb.mp4"},{"picUrl":"https://yanxuan.nosdn.127.net/d55c12d1fee65c82e50a08b0ddecc29b.mp4?vframe=&offset=2","videoWebmUrl":"https://yanxuan.nosdn.127.net/7796259ef88c90f2da5bf6f458ed905e.webm","videoMp4Url":"https://yanxuan.nosdn.127.net/d55c12d1fee65c82e50a08b0ddecc29b.mp4"}],"praise":[{"topicTagId":0,"topicTemplateId":0,"title":"","type":-1,"picUrl":"https://yanxuan-item.nosdn.127.net/97e0ff11bbbd3fbd08246e096375b1cd.png","itemName":"20寸纯PC铝框登机箱","subTitle":"","linkUrl":"http://you.163.com/topic/v1/pub/UX4DwGMuvv.html","schemeUrl":"http://you.163.com/topic/v1/pub/UX4DwGMuvv.html","itemDesc":"轻巧登机箱，抗暴力冲撞","itemCount":0,"topicId":3473,"createTime":0,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"","type":-1,"picUrl":"https://yanxuan-item.nosdn.127.net/ac8d71c7c4fbc1449e7eef4c6673de21.png","itemName":"奢华头层牛皮席 三件套","subTitle":"","linkUrl":"http://you.163.com/topic/v1/pub/sIGjEtAMGc.html","schemeUrl":"http://you.163.com/topic/v1/pub/sIGjEtAMGc.html","itemDesc":"三峡水牛头层皮，高端凉席必备","itemCount":0,"topicId":2726,"createTime":0,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"","type":-1,"picUrl":"https://yanxuan-item.nosdn.127.net/750ca93a49c2bbb9801328baf5a58cce.png","itemName":"春风天然系列星石按摩器","subTitle":"","linkUrl":"http://you.163.com/topic/v1/pub/oKodbN1sqC.html","schemeUrl":"http://you.163.com/topic/v1/pub/oKodbN1sqC.html","itemDesc":"流星灵感，4种震动一键燃情","itemCount":0,"topicId":2448,"createTime":0,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"","type":-1,"picUrl":"https://yanxuan-item.nosdn.127.net/118e80c49895c39c80c93598bb45602a.png","itemName":"网易智造N520除螨吸尘器","subTitle":"","linkUrl":"http://you.163.com/topic/v1/pub/uKy6vR8beY.html","schemeUrl":"http://you.163.com/topic/v1/pub/uKy6vR8beY.html","itemDesc":"除螨吸尘 深层清洁","itemCount":0,"topicId":1388,"createTime":0,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"","type":-1,"picUrl":"https://yanxuan-item.nosdn.127.net/6977c1c7c298270d76fc5b9e83a3376e.png","itemName":"网易智造锁味干果机","subTitle":"","linkUrl":"http://you.163.com/topic/v1/pub/0maP2m4aoV.html","schemeUrl":"http://you.163.com/topic/v1/pub/0maP2m4aoV.html","itemDesc":"锁住食物新鲜感，每一口都有阳光风味","itemCount":0,"topicId":1467,"createTime":0,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"它让水变得有点甜","type":-1,"picUrl":"https://yanxuan-item.nosdn.127.net/6ed9eef1ead85b7b17972bbb0663b9fb.png","itemName":"四重过滤 镁离子净水壶","subTitle":"","linkUrl":"http://you.163.com/topic/v1/pub/MDOMggyMul.html","schemeUrl":"http://you.163.com/topic/v1/pub/MDOMggyMul.html","itemDesc":"德国净水黑科技，3.3L大容量","itemCount":0,"topicId":1158,"createTime":0,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"","type":-1,"picUrl":"https://yanxuan-item.nosdn.127.net/7429141385faba6691957ffb9d38f8f9.png","itemName":"梨形/小豆丁懒人沙发","subTitle":"","linkUrl":"http://you.163.com/topic/v1/pub/U8771iPubx.html","schemeUrl":"http://you.163.com/topic/v1/pub/U8771iPubx.html","itemDesc":"软糯高弹，舒适自由组合","itemCount":0,"topicId":532,"createTime":0,"commentSwitch":false},{"topicTagId":0,"topicTemplateId":0,"title":"这只锅，可以从祖母用到孙辈","type":-1,"picUrl":"https://yanxuan-item.nosdn.127.net/534660a90a8ae9cb0aed7a66334a37c2.png","itemName":"经典铸铁珐琅锅22cm","subTitle":"","linkUrl":"http://you.163.com/topic/v1/pub/op3z1BO3hh.html","schemeUrl":"http://you.163.com/topic/v1/pub/op3z1BO3hh.html","itemDesc":"高颜值，点缀餐桌更高端","itemCount":0,"topicId":294,"createTime":0,"commentSwitch":false}],"space":[{"spaceTypeId":544,"spaceTypeName":"严选HOME@酒店","spaceTopics":[{"topicTagId":0,"topicTemplateId":0,"title":"严选开了一家零压酒店！住进来，爆款好物给你超放松旅途住宿体验！","type":-1,"picUrl":"https://yanxuan.nosdn.127.net/337bc9ed7ac87eb30a5a9f5afe06f28a.jpg","subTitle":"随行按摩仪|旅途小零食，旅途解压必备","linkUrl":"http://you.163.com/topic/v1/pub/WTcPllJznz.html","nickname":"严选HOME","schemeUrl":"http://you.163.com/topic/v1/pub/WTcPllJznz.html","avatar":"https://yanxuan.nosdn.127.net/be0739690cd81b69d46c876246945c0f.png","itemCount":0,"topicId":13574,"createTime":0,"commentSwitch":false,"desc":"轻松自在的零压好生活，一直是严选想给大家带来的生活状态。本期严选HOME和舒适风的亚朵再次合作，采用经典的选式“原木色+白色”的自然属性配色，精选按摩仪、香薰精油等严选的减压好物，在成都春熙路附近打造了一个旅途的零压空间。严选希望在旅途中，也能给大家轻松自在的居住体验，忘记旅途疲惫，获得零压的超享受旅行住宿体验。"},{"topicTagId":0,"topicTemplateId":0,"title":"爆改北京后海老旧民宿，秒变治愈系文艺风，严选这次真的很行！","type":-1,"picUrl":"https://yanxuan.nosdn.127.net/c9a74fe5c3a7b3f810c3598dac65c2cb.jpg","subTitle":"严选HOME@后海小院改造计划","linkUrl":"http://you.163.com/topic/v1/pub/SFglRns6nY.html","nickname":"严选HOME","schemeUrl":"http://you.163.com/topic/v1/pub/SFglRns6nY.html","avatar":"https://yanxuan.nosdn.127.net/e082143639c8e8d9511a76c1463675aa.png","itemCount":0,"topicId":1523,"createTime":0,"commentSwitch":false,"desc":"本期严选改造了一间北京后海民宿，希望用温暖感十足布艺软装和质感高级的家居单品，打造一个即使在繁华之内，也能让你宁静下来的后海小院"},{"topicTagId":0,"topicTemplateId":0,"title":"定个酒店，就能试睡严选样板间","type":-1,"picUrl":"http://yanxuan.nosdn.127.net/f1f0ec0b4ed2e2fe2b06f9d6c3102e97.jpg","subTitle":"旅途上的温暖家","linkUrl":"http://you.163.com/topic/v1/pub/VYTSr1szmo.html","nickname":"严选HOME","schemeUrl":"http://you.163.com/topic/v1/pub/VYTSr1szmo.html","avatar":"https://yanxuan.nosdn.127.net/991db17756431078e0c887bebc025850.png","itemCount":0,"topicId":1251,"createTime":0,"commentSwitch":false,"desc":"于旅人而言，酒店是温暖的停靠点，让人们恢复元气走进下一程。网易严选将生活美学带到亚朵酒店，用严选商品搭建了几个家一般温馨舒适的房间。让旅人即便出门在外，可以感受到家的温暖。"}]},{"spaceTypeId":551,"spaceTypeName":"严选HOME@公寓","spaceTopics":[{"topicTagId":0,"topicTemplateId":0,"title":"精致女孩的单身公寓","type":-1,"picUrl":"https://yanxuan.nosdn.127.net/99d6c20a94e23f86e2fc81de265b035a.jpg","subTitle":"女神范软装指南","linkUrl":"http://you.163.com/topic/v1/pub/LHExuTijkf.html","nickname":"严选HOME","schemeUrl":"http://you.163.com/topic/v1/pub/LHExuTijkf.html","avatar":"https://yanxuan.nosdn.127.net/5b3a5ee08233b7bf428d89332fc5a650.png","itemCount":0,"topicId":3463,"createTime":0,"commentSwitch":false,"desc":"独居的女孩子，在都市中自己与自己生活，当然希望居住空间里的一切都精致的顺你心意，能够好好抚慰工作后疲惫的身体。想要守护你的这种精致，本期严选HOME与万科泊寓再次合作，用高级灰加上低饱和度的粉色，搭配真丝、香薰这些好物，为你打造出有质感的女神范单身公寓。"},{"topicTagId":0,"topicTemplateId":0,"title":"LOFT公寓温馨软装指南","type":-1,"picUrl":"http://yanxuan.nosdn.127.net/4ae8aeb6ff21ccef2b3342259cba5a0f.jpg","subTitle":"严选HOME@万科智谷","linkUrl":"http://you.163.com/topic/v1/pub/FWjzavdnHi.html","nickname":"严选HOME","schemeUrl":"http://you.163.com/topic/v1/pub/FWjzavdnHi.html","avatar":"https://yanxuan.nosdn.127.net/b9c104e39f0104b08b2ed6bddf50f949.png","itemCount":0,"topicId":1247,"createTime":0,"commentSwitch":false,"desc":"严选希望可以把家的温暖传递给每一位伙伴，由此我们酝酿了一个充满严选元素，有浓郁严选格调的实体样板间——严选home。本专题推荐的是严选HOME在万科智谷搭建的一个LOFT公寓，用严选好物装点出的实景空间。"},{"topicTagId":0,"topicTemplateId":0,"title":"打造原木色日系单身公寓","type":-1,"picUrl":"http://yanxuan.nosdn.127.net/dcbb11e54d3d9dbfa1d35a5ae017f2c8.jpg","subTitle":"严选HOME首期","linkUrl":"http://you.163.com/topic/v1/pub/L5MLQAevO7.html","nickname":"严选HOME","schemeUrl":"http://you.163.com/topic/v1/pub/L5MLQAevO7.html","avatar":"https://yanxuan.nosdn.127.net/b153a824293d3b5d92d32116f6e59541.png","itemCount":0,"topicId":1237,"createTime":0,"commentSwitch":false,"desc":"我们在群岛公寓搭建了几个实景空间，希望将网易严选生活美学概念，以最贴近日常生活的方式在线下呈现。如果你正在为家里的软装搭配而烦恼，不如看看我们为你提供的解决方案吧。"},{"topicTagId":0,"topicTemplateId":0,"title":"经典北欧/日系一居室软装速成","type":-1,"picUrl":"https://yanxuan.nosdn.127.net/ca43fff43dfe08be67b6345f9fbf3255.jpg","subTitle":"城市青年简居好物","linkUrl":"http://you.163.com/topic/v1/pub/dVsekk3VLe.html","nickname":"严选HOME","schemeUrl":"http://you.163.com/topic/v1/pub/dVsekk3VLe.html","avatar":"https://yanxuan.nosdn.127.net/818ae5fb12de9833d781353328801c89.png","itemCount":0,"topicId":1472,"createTime":0,"commentSwitch":false,"desc":"对于都市青年而言，房子虽然是租的，但生活却是自己的。我们选择了万科泊寓两间一居室公寓，用高性价比的严选商品，软装了两种不同风格的样板间，这些精选的布置，都是我们对生活一丝不苟的态度。希望这两间房子里能够装下，你对家的所有美好想象。"}]},{"spaceTypeId":1724,"spaceTypeName":"严选HOME@书店","spaceTopics":[{"topicTagId":0,"topicTemplateId":0,"title":"我们在“中国十大最美书店”里，开了一家新中产书房！","type":-1,"picUrl":"https://yanxuan.nosdn.127.net/1321d6cb56180a59d492655bc84f3434.jpg","subTitle":"书房优雅好物","linkUrl":"http://you.163.com/topic/v1/pub/oxYIz7Sb4r.html","nickname":"严选HOME","schemeUrl":"http://you.163.com/topic/v1/pub/oxYIz7Sb4r.html","avatar":"https://yanxuan.nosdn.127.net/955d84708693c15378fe8df5a25d2980.png","itemCount":0,"topicId":7380,"createTime":0,"commentSwitch":false,"desc":"生活与家是优雅底色中的幽默与活力，是一个个温暖小角落的组合。这次严选牵手“中国十大最美书店”文轩BOOKS，通过线条感与实物结合，书籍与物品陈列穿插的方式，用严选好物为你搭建了一个个独立小角落，打造出舒适的阅读空间。你心目中的书房是什么样的呢？参考严选的，也许你能从中窥得些许模样。"}]}],"moduleUrl":{"pickRecommend":"http://you.163.com/topic/list?activeType=1","special":"http://you.163.com/topic/list?activeType=4","design":"http://you.163.com/topic/list?activeType=5","banner":"http://you.163.com/topic/list?activeType=","dingRecommend":"http://you.163.com/topic/list?activeType=2","global":"http://you.163.com/topic/list?activeType=6","recommend":"http://you.163.com/topic/list?activeType=0","time":"http://you.163.com/topic/list?activeType=","praise":"http://you.163.com/topic/list?activeType=3","space":"http://you.163.com/topic/list?activeType="}};
+</script>
+<script src="//yanxuan-static.nosdn.127.net/hxm/yanxuan-web/p/20150730/js/dist/topic/index/index-3b300046a3.page.js" crossorigin></script>
+<script type="text/javascript">
+var currentPageIsIndex = false;
+</script>
+</body>
+</html>
